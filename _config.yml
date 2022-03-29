@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Sumin CHUNG
 description         : >-
-                      Let's just code,\n
-                      roll\n
+                      Let's just code,
+                      roll
                       and make it.
 baseurl             :                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : finesum.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)

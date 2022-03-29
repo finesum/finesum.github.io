@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
+name: What's Wrong Again?! - Error Wiki Project
+tools: [React.js, Spring, Spring JPA, MariaDB, incomplete]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Error Wiki website, the collection of all the trial-and-error.
 external_url: https://www.google.com
 ---
